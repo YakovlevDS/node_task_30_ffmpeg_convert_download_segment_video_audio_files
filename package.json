@@ -1,0 +1,18 @@
+{
+  "name": "vimeodownload",
+  "version": "1.0.0",
+  "description": "Node.js script helps you to download private videos from Vimeo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "combine": "sh vimeo-combine.sh"
+  },
+  "keywords": [
+    "vimeo",
+    "private",
+    "video",
+    "download"
+  ],
+  "license": "WTFPL"
+  
+}
